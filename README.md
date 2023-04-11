@@ -1,4 +1,4 @@
-An ATM bank App in Cplusplus Language
+# An ATM bank App in Cplusplus Language
 
-# Trying my hands on C programming Language
+Trying my hands on C programming Language
  
