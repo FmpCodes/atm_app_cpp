@@ -2,3 +2,8 @@
 
 Trying my hands on C programming Language
  
+ - Command to compile code
+
+```
+g++ main.cpp -lwinmm -o main
+```
